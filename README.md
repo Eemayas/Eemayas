@@ -1,7 +1,6 @@
 
 <p align="left"> <a href="https://twitter.com/@prashantmanand8" target="blank"><img src="https://img.shields.io/twitter/follow/@prashantmanand8?logo=twitter&style=for-the-badge" alt="@prashantmanand8" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.manandharprashant.com.np/](https://www.manandharprashant.com.np/)
 - 👨‍💻 All of my projects are available at [https://www.manandharprashant.com.np/#project](https://www.manandharprashant.com.np/#project)
 
 - 📫 How to reach me **https://www.manandharprashant.com.np/**
