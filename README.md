@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.manandharprashant.com.np/#project](https://www.manandharprashant.com.np/#project)
 
-- 📫 How to reach me **https://www.manandharprashant.com.np/**
+- 📫 How to reach me  [https://www.manandharprashant.com.np/#contact](https://www.manandharprashant.com.np/#contact)
 <br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
