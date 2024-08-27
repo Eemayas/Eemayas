@@ -1,9 +1,9 @@
 
 <p align="left"> <a href="https://twitter.com/@prashantmanand8" target="blank"><img src="https://img.shields.io/twitter/follow/@prashantmanand8?logo=twitter&style=for-the-badge" alt="@prashantmanand8" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.manandharprashant.com.np/#project](https://www.manandharprashant.com.np/projects)
+- 👨‍💻 All of my projects are available at [https://www.manandharprashant.com.np/project](https://www.manandharprashant.com.np/projects)
 
-- 📫 How to reach me  [https://www.manandharprashant.com.np/#contact](https://www.manandharprashant.com.np/contacts)
+- 📫 How to reach me  [https://www.manandharprashant.com.np/contact](https://www.manandharprashant.com.np/contacts)
 <br/>
 <h2 align="left">Connect with me:</h2>
 <p align="left">
